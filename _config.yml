@@ -1,0 +1,28 @@
+name: "Peter Aylett's Blog"
+favicon: null
+layout_spectrum: 0.11300433450378478
+typography_spectrum: 0.9030045727267861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5482641123235226
+  lightness: 0.6716162783559412
+  saturation: 0.5847339206375182
+  rhythmicContrast: 0.996116385795176
+purpose: []
