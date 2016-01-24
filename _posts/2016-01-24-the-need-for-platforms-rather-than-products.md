@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T11:53:31.968Z'
-dateModified: '2016-01-24T11:53:14.350Z'
+datePublished: '2016-01-24T11:57:46.466Z'
+dateModified: '2016-01-24T11:57:41.936Z'
 title: The Need For Platforms Rather Than Products
 author: []
+sourcePath: _posts/2016-01-24-the-need-for-platforms-rather-than-products.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-the-need-for-platforms-rather-than-products.md
-published: true
 url: the-need-for-platforms-rather-than-products/index.html
 _type: Article
 
@@ -36,6 +36,7 @@ Today's latest thing is tomorrow's obsolete box that sits in the bottom of a dra
 
 **Video**  
 As an example, video distribution and display devices is an area where this rate of change is faster than most. The Amazon Fire TV I bought under a year ago has already been superseded by a UHD capable model. The UHD TVs that many bought even 18 months ago are now unlikely to be able to display HDCP 2.2 encrypted content. The future holds even more obsolescence with HDR (High Dynamic Range) and REC2020 (Wider Colour Gamut) displays around the corner. Though we always need to ask ourselves if the upgrade is really worth it, we at least need to start designing our systems in a way that makes the upgrade possible. This is where the concept of designing platforms rather than product centred systems comes in.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8652ca42-c334-4878-b13a-6e43d9317fa1.jpg)
 
 **The Platform**  
 Just like when the OS model is used for networking, platforms start with the physical layer. This is the combination of copper cables, fibre optic cables and wireless radio transmissions that carry all the data necessary for the various subsystems in a building. In todays era of The IoT (Internet of Things) physical connections are being surpassed by wireless ones for the transmission of data. Sky are fighting this in the UK with the upcoming launch of their new SkyQ system. This will use a combination of Wi-Fi and Powerline networking to deliver a multiform system. The future of entertainment, however, will be in scaling the personal scale experience to become a room or house experience. As technology advances, so does the power and capability of the mobile device (phone or tablet). It is these devices that are becoming the centre of our digital lifestyle both in and out of the home, and that form the basis of a platform-based solution.
