@@ -1,7 +1,7 @@
 name: "Peter Aylett's Blog"
 favicon: null
-layout_spectrum: 0.11300433450378478
-typography_spectrum: 0.9030045727267861
+layout_spectrum: 0.83086
+typography_spectrum: 1
 title: Peter Aylett Consulting
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5482641123235226
-  lightness: 0.6716162783559412
-  saturation: 0.5847339206375182
-  rhythmicContrast: 0.996116385795176
+  brandStrength: 0.625
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
