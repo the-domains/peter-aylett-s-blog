@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T11:57:46.466Z'
+datePublished: '2016-01-24T11:57:46.480Z'
 dateModified: '2016-01-24T11:57:41.936Z'
 title: The Need For Platforms Rather Than Products
 author: []
