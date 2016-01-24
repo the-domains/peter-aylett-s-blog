@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Peter Aylett Consulting]]></title>
         <description><![CDATA[Peter Aylett Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.peteraylett.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 11:53:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 11:57:58 GMT</lastBuildDate>
+        <atom:link href="http://www.peteraylett.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Need For Platforms Rather Than Products]]></title>
-            <description><![CDATA[<article><h1>The Need For Platforms Rather Than Products</h1><p>undefined</p></article>]]></description>
-            <link>undefinedthe-need-for-platforms-rather-than-products/index.html</link>
+            <description><![CDATA[<article><h1>The Need For Platforms Rather Than Products</h1><p>Back in 2010, I had a slide in one of my technology trends presentations that asked ‘Are people making product choices or platform choices?’ How far this has now evolved was really brought home to me a few days ago when I visited a customer for whom we had installed a system seven years ago. Though it still worked perfectly, it felt so dated. There was no Airplay or Bluetooth audio, no streaming services, no remote access, no method of control from mobile devices and an HDMI matrix switch so dated that If put on eBay today, I doubt it would sell at any price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caa0f39ec4f6ab2053b0beeccfbfe4a456ffc3be.jpg"></article>]]></description>
+            <link>http://www.peteraylett.com/the-need-for-platforms-rather-than-products/index.html</link>
             <guid isPermaLink="false">649ceb97-9771-485e-b0ea-e94d4d57345f</guid>
-            <pubDate>Sun, 24 Jan 2016 11:53:31 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 11:57:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
